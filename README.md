@@ -21,8 +21,11 @@ Email: elhanyusuf75@gmail.com
 Github: elhanyusuf
 
 ## License
-This application has ```MIT license``
-Please view this for more infomation:(https://choosealicense.com/licenses/mit/)
+This application has
+
+ ```MIT license```
+
+Please view this for more infomation:  (https://choosealicense.com/licenses/mit/)
 
 ## Contributers
 Elhan Yusuf
