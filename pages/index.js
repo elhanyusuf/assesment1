@@ -12,11 +12,8 @@ export default function Home() {
           </Head>
           <header className='text-center py-[10rem] bg-red-200'> 
             <img className='w-[89px] mx-auto ' src="profilefavicon.svg" alt="Next best developer" />
-              <PageHeading title="Elhan Yusuf- Next Best Developer" tagline="The perfect fit for your company"/>
+              <PageHeading title="Elhan Yusuf- Next Best Developer" tagline="Perfect fit for your company. "/>
           </header>
           
           </>
   )
-}
-// change title and h1 te 
-//<p className='text-lg'>Page that is being updated and changed as I learn.</p>
