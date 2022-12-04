@@ -2,9 +2,9 @@
 
 ## Description
 We are creating a simple Next.js application using react and next.
+This website is a place users can check out  a bunch of chefs and cooks and their different cooking techinques and recipes.
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Live site: https://assesment1-kappa.vercel.app/
 
 ## Installation
 To install this application you will need to 
