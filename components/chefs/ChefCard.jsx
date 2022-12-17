@@ -1,8 +1,10 @@
 import Image from "next/image";
-function ChefCard({fullName, profile_pic, email, type, link  }) {
+import Link from "next/link";
+function ChefCard({fullName, profile_pic, email, type, link, rid  }) {
     return(
     
     <div className="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl  divide-y divide-orange-200  bg-yellow-900 text-gray-100 m-2 w-3/5">
+        <Link href={`/profile/${rid}`}>
 	 <header className="flex flex-col items-center pb-1">
                 <Image
                 src={profile_pic} alt="profile pic"
@@ -13,6 +15,7 @@ function ChefCard({fullName, profile_pic, email, type, link  }) {
                 <p>{type}</p>
                 
             </header>
+        </Link>
 	<div className="space-y-4 text-center divide-y  divide-orange-200">
 		<div className="my-2 space-y-1">
 		    <a href="{link}" className="hover:text-orange-200">

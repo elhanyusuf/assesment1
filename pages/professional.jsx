@@ -15,6 +15,7 @@ function professionalPage({professional} ) {
          email={dev.email}
          type={dev.type}
          link={dev.link}
+         rid={dev.rid}
          />
          )}
     </main>
